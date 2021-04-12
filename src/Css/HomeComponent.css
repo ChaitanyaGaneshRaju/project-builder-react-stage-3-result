@@ -16,16 +16,22 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  row-gap:1em
 }
 
-.home-component > button{
+#play-button{
     width:20%;
     height:5%;
+    text-decoration: none;
+    font-weight: bold;
     border: none;
     border-radius: 1em;
     background-color: rgba(87,184,69,255);
     color: white;
     cursor: pointer;
     outline: none;
-    font-size: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }

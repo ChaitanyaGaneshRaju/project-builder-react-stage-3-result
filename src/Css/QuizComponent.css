@@ -27,7 +27,9 @@ body {
     width: 100%;
     display: flex;
     flex-direction: column;
+    row-gap:1em;
     align-items: center;
+    color:black !important;
 }
 
 .question-panel > div{
@@ -51,8 +53,9 @@ body {
     margin:10px;
     background-color:#0275d8;
     border:none;
-    border-radius: 2em;
-    color:white
+    border-radius: 3em;
+    color:white;
+    cursor:pointer;
 }
 
 .button-panel{
@@ -66,6 +69,7 @@ body {
 .button-panel > *{
     width: 15%;
     border:none;
+    cursor: pointer;
 }
 
 #previous{
@@ -79,36 +83,3 @@ body {
 #clear{
     background-color: #d9534f;
 }
-
-
-/* 
-.question-panel{
-    width: 100%;
-    background-color: green;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.question-panel > div{
-    background-color: red;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    column-gap:3em;
-    width:100%
-}
-
-.option-panel{
-    border:none;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    background-color: black;
-}
-
-.option-panel > button{
-    width: 50%;
-    background-color:cyan;
-    height: 100%;
-} */

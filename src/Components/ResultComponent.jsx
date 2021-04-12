@@ -7,7 +7,7 @@ class ResultComponent extends Component {
       <div className="result-component">
         <i className="far fa-check-circle check-mark"></i>
         <h2 id="result">Result</h2>
-        <div className="white-panel">
+        <div className="result-white-panel">
           <h2>You need more practice</h2>
           <h1>Your score: 20%</h1>
           <div id="details">

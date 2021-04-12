@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Which one of the following river flows between Vindhyan and Satpura ranges?",
+    "options": ["Narmada", "Mahanandi", "Son", "Netravati"],
+    "answer": "Narmada"
+  },
+  {
+    "question": "The Central Rice Research Station is situated in?",
+    "options": ["Chennai", "Cuttack", "Bangalore", "Quilon"],
+    "answer": "Cuttack"
+  },
+  {
+    "question": "Who among the following wrote Sanskrit grammar?",
+    "options": ["Kalidas", "Charak", "Panini", "AryaBhatta"],
+    "answer": "Panini"
+  },
+  {
+    "question": "The metal whose salts are sensitive to light is?",
+    "options": ["Zinc","Silver","Copper","Aluminum"],
+    "answer": "Silver"
+  },
+  {
+    "question": "Patanjali is well known for the compilation of –",
+    "options": ["Yoga Sutra","Pancha tanatra","Brahmasutra","Ayurveda"],
+    "answer": "Yoga Sutra"
+  },
+  {
+    "question": "River Luni originates near Pushkar and drains into which one of the following?",
+    "options": ["Rann of Kachchh","Arabian Sea","Gulf of Cambay","Lake Sambhar"],
+    "answer": "Rann of Kachchh"
+  },
+  {
+    "question": "Which one of the following rivers originates in Brahmagiri range of Western Ghats?",
+    "options": ["Pennar","Cauvery","Krishna","Tapti"],
+    "answer": "Cauvery"
+  },
+  {
+    "question": "The country that has the highest in Barley Production?",
+    "options": ["China","India","Russia","France"],
+    "answer": "Russia"
+  },
+  {
+    "question": "Tsunamis are not caused by",
+    "options": ["Hurricanes","Earthquakes","Undersea landslides","Volcanic eruptions"],
+    "answer": "Hurricanes"
+  },
+  {
+    "question": "Chambal river is a part of –",
+    "options": ["Sabarmati basin","Ganga basin","Narmada basin","Godavari basin"],
+    "answer": "Narmada basin"
+  },
+  {
+    "question": "D.D.T. was invented by?",
+    "options": ["Mosley","Rudolf","Karl Benz","Dalton"],
+    "answer": "Mosley"
+  },
+  {
+    "question": "Volcanic eruption do not occur in the",
+    "options": ["Baltic sea","Black sea","Caribbean sea","Caspian sea"],
+    "answer": "Baltic sea"
+  },
+  {
+    "question": "Indus river originates in –",
+    "options": ["Kinnaur","Ladakh","Nepal","Tibet"],
+    "answer": "Tibet"
+  },
+  {
+    "question": "The hottest planet in the solar system?",
+    "options": ["Mercury","Venus","Mars","Jupiter"],
+    "answer": "Venus"
+  },
+  {
+    "question": "With which of the following rivers does Chambal river merge?",
+    "options": ["Banas","Ganga","Narmada","Yamuna"],
+    "answer": "Yamuna"
+  }
+]
