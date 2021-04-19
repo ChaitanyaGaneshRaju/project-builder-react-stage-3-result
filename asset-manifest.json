@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/project-builder-react-stage-3-result/static/css/main.cbefd59b.chunk.css",
+    "main.js": "/project-builder-react-stage-3-result/static/js/main.41d4f7d7.chunk.js",
+    "main.js.map": "/project-builder-react-stage-3-result/static/js/main.41d4f7d7.chunk.js.map",
+    "runtime-main.js": "/project-builder-react-stage-3-result/static/js/runtime-main.a527c740.js",
+    "runtime-main.js.map": "/project-builder-react-stage-3-result/static/js/runtime-main.a527c740.js.map",
+    "static/css/2.3f6a4e7d.chunk.css": "/project-builder-react-stage-3-result/static/css/2.3f6a4e7d.chunk.css",
+    "static/js/2.96059e1d.chunk.js": "/project-builder-react-stage-3-result/static/js/2.96059e1d.chunk.js",
+    "static/js/2.96059e1d.chunk.js.map": "/project-builder-react-stage-3-result/static/js/2.96059e1d.chunk.js.map",
+    "static/js/3.911cf90f.chunk.js": "/project-builder-react-stage-3-result/static/js/3.911cf90f.chunk.js",
+    "static/js/3.911cf90f.chunk.js.map": "/project-builder-react-stage-3-result/static/js/3.911cf90f.chunk.js.map",
+    "index.html": "/project-builder-react-stage-3-result/index.html",
+    "static/css/2.3f6a4e7d.chunk.css.map": "/project-builder-react-stage-3-result/static/css/2.3f6a4e7d.chunk.css.map",
+    "static/css/main.cbefd59b.chunk.css.map": "/project-builder-react-stage-3-result/static/css/main.cbefd59b.chunk.css.map",
+    "static/js/2.96059e1d.chunk.js.LICENSE.txt": "/project-builder-react-stage-3-result/static/js/2.96059e1d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a527c740.js",
+    "static/css/2.3f6a4e7d.chunk.css",
+    "static/js/2.96059e1d.chunk.js",
+    "static/css/main.cbefd59b.chunk.css",
+    "static/js/main.41d4f7d7.chunk.js"
+  ]
+}
